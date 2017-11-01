@@ -1,0 +1,3 @@
+[submodule "ObserverSet"]
+	path = ObserverSet
+	url = git@github.com:SerenadeX/ObserverSet
